@@ -1,0 +1,6 @@
+{
+  "name": "Parwaaz-e-Ilm",
+  "description": "Early Student Support System - See the Signs. Support the Journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
